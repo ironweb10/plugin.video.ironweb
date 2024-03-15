@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.intarcesoft.com.ve/img/cms/KODI/Descargar%20Sr%20Regio%20addons%20kodi%20Intarcesoft.jpg",SRRegio
+http://srregio.net/23ma/regioflix.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ironweb10/plugin.video.ironweb/main/pluto-tv-6.png",Pluto Tv
+http://srregio.net/22ma/regioflix.m3u
