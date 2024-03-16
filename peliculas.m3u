@@ -3,3 +3,6 @@
 http://srregio.net/23ma/regioflix.m3u
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/25/25231.png",Github
 https://github.com/Lisiptv/2104/raw/main/Pl.m3u
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/25/25231.png",Gluvu
+http://gluvu.atspace.cc/Peliculas%20A
